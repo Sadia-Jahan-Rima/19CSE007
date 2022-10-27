@@ -1,0 +1,29 @@
+
+table{
+    border-collapse:collapse;
+    box-shadow: -1px 12px 12px -6px rgba(0,0,0,0.5);
+    margin: auto;
+    margin-top: 6%;
+
+}
+th,td{
+padding: 15px;
+}
+
+th{
+    background-color: rgb(183, 0, 255);
+}
+
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    background-color: orange;
+}
+h3{
+    margin: 0;
+    padding: 5px; 
+    background-color:gray;
+    text-align: center;
+}
+
